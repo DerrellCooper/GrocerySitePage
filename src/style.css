@@ -1,0 +1,12 @@
+.header-border{
+    border-bottom: solid black 10px
+}
+
+.item{
+    width: 150px
+}
+
+/* styling for Shopping List */
+.cart-list{
+    border: solid black
+}
